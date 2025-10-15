@@ -1,4 +1,4 @@
-**## Akusti Riekkola web exercise**
+## **Akusti Riekkola web exercise**
 
 ---
 
@@ -7,9 +7,12 @@ lesson/1/
 
 Writing in Markdown is _not_ that hard!
 
+
 I **will** complete these lessons!
 
+
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
+
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
@@ -25,6 +28,7 @@ lesson/2/
 ###### Header six
 
 
+
 #### Colombian Symbolism in One Hundred Years of Solitude
 
 Here's some words about the book _One Hundred Years..._.
@@ -33,7 +37,10 @@ Here's some words about the book _One Hundred Years..._.
 
 lesson/3/
 
+
+
 [Search for it.](www.google.com)
+
 
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
@@ -41,6 +48,7 @@ lesson/3/
 
 
 #### The Latest News from [the BBC](www.bbc.com/news)
+
 
 
 
@@ -57,6 +65,11 @@ Well, do I have [the website for you][morefun]!
 lesson/4/
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+
+
+
+
 
 
 ![Black cat][Black]
